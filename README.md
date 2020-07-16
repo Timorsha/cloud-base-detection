@@ -38,9 +38,9 @@ verwendet werden kann.
 ![IWV fit correlation](https://github.com/Timorsha/cloud-base-detection/blob/master/cloud%20base/plots/iwv_fit_correlation.png)
 
 # Dokumentation
-* [Extended Abstract (Draft)](doc/abstract/LEX2016_Pyrgeometer_Abstract.pdf)
-* [Poster](doc/poster/LEX2016_Pyrgeometer_Poster.pdf)
-* [Präsentation des Projektes](doc/presentation/LEX2016_Pyrgeometer_Praesentation.pdf)
+* [Extended Abstract (Draft)](https://github.com/Timorsha/cloud-base-detection/blob/master/LEX2016_Pyrgeometer_Abstract.pdf)
+* [Poster](https://github.com/Timorsha/cloud-base-detection/blob/master/LEX2016_Pyrgeometer_Poster.pdf)
+* [Präsentation des Projektes](https://github.com/Timorsha/cloud-base-detection/blob/master/LEX2016_Pyrgeometer_Praesentation.pdf)
 
 # Weiterführende Links
 
